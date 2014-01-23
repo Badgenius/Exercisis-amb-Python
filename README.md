@@ -1,4 +1,4 @@
-pythontest
+Exercisis amb Python
 ==========
 
-Just random and amateur tests with python
+Exercisis amb Python d'un aspirant a programador.
